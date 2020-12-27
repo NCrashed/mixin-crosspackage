@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"User"
+	],
+	"copyright": "Copyright © 2020, User",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "app",
+	"dependencies": {
+		"testlib": "~>0.1.0",
+	},
+}

@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"User"
+	],
+	"copyright": "Copyright © 2020, User",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "testlib",
+}
